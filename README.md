@@ -1,4 +1,4 @@
-# EXP-1
+# EXP-2
 ## VI CHARACTERISTICS OF GUNN DIODE
 # Aim: 
 To study I-V characteristics of Gunn Diode and depth of modulation of modulation of PIN diode. 
